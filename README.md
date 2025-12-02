@@ -1,9 +1,11 @@
 # woahbliningleds
-Idk its a cool tree with some leds that will blink when powered woah so cool,
-Overall look of the board
-<img width="1376" height="1228" alt="Zrzut ekranu 2025-11-29 225630" src="https://github.com/user-attachments/assets/3bd2466b-97a9-4a98-8892-de60a1cb8381" />
-Schematic of the pcb:
-<img width="1732" height="1222" alt="image" src="https://github.com/user-attachments/assets/202e39f0-7686-407f-94e8-f870730cc56b" />
+Idk its a cool tree with some leds that will blink when powered woah so cool,<br>
+Overall look of the board<br>
+<img width="1376" height="1228" alt="Zrzut ekranu 2025-11-29 225630" src="https://github.com/user-attachments/assets/3bd2466b-97a9-4a98-8892-de60a1cb8381" /><br>
+Schematic of the pcb:<br>
+<img width="1732" height="1222" alt="Zrzut ekranu 2025-12-02 225852" src="https://github.com/user-attachments/assets/3d1db45b-3639-47b5-8bb8-a254fa2a7dcc" /><br>
+Lines of the pcb:<br>
+<img width="1062" height="1064" alt="Zrzut ekranu 2025-11-29 223700" src="https://github.com/user-attachments/assets/16e4ad3e-7e5a-4758-a569-daf56a1215b1" /><br>
 
 BOM:
 
