@@ -7,7 +7,7 @@ Schematic of the pcb:
 
 BOM:
 
-[BOM_Blinking-led-tree-555_2025-12-02.csv](https://github.com/user-attachments/files/23891592/BOM_Blinking-led-tree-555_2025-12-02.csv)
+[BOM_Blinking-led-tree-555_2025-12-02.csv](https://github.com/user-attachments/files/23891592/BOM_Blinking-led-tree-555_2025-12-02.csv) <br>
 ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price
 "1"	"1uF"	"C1"	"CAP-TH_BD5.0-P2.00-D0.8-FD"	"1"	"KF010M050C110A"	"CapXon(丰宾)"	"LCSC"	"C62934"	"0.026"
 "2"	"10nF"	"C2"	"CAP-TH_L8.0-W4.0-P5.00-D1.2"	"1"	"N09F1B103MN0B0S0N0"	"STE(松田)"	"LCSC"	"C249157"	"0.036"
